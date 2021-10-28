@@ -303,7 +303,7 @@ function reveal() {
   }
 
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src", "https://www.youtube.com/embed/dxT48KZVJ7c?controls=0&loop=1&autoplay=0"); //ifrm.style.width = `${w}px`;
+  ifrm.setAttribute("src", "https://www.youtube.com/embed/dxT48KZVJ7c?controls=0&loop=1&autoplay=1"); //ifrm.style.width = `${w}px`;
   //ifrm.style.height = `${h}px`;
 
   ifrm.style.border = 'none';
